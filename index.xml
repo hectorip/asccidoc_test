@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?asciidoc-toc?>
+<?asciidoc-numbered?>
+<article xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="en">
+<info>
+<title>Hola Asciidoc</title>
+<date>2021-02-12</date>
+</info>
+<simpara>Hola esto es una prueba de Asciidoc</simpara>
+<section xml:id="_encabezado_2">
+<title>Encabezado 2</title>
+<section xml:id="_encabezado_3">
+<title>Encabezado 3</title>
+<section xml:id="_no">
+<title>No</title>
+<orderedlist numeration="arabic">
+<listitem>
+<simpara>uno</simpara>
+</listitem>
+<listitem>
+<simpara>dos</simpara>
+</listitem>
+<listitem>
+<simpara>tres</simpara>
+</listitem>
+</orderedlist>
+<simpara>Esto es otra:</simpara>
+<itemizedlist>
+<listitem>
+<simpara>Uno</simpara>
+</listitem>
+<listitem>
+<simpara>Dos</simpara>
+</listitem>
+<listitem>
+<simpara>Tres</simpara>
+</listitem>
+</itemizedlist>
+</section>
+</section>
+</section>
+</article>
